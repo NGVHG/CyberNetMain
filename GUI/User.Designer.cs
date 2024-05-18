@@ -49,7 +49,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(119, 466);
+            this.panel1.Size = new System.Drawing.Size(119, 505);
             this.panel1.TabIndex = 0;
             // 
             // gbtnnaptenon
@@ -137,14 +137,14 @@
             this.panel_body.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel_body.Location = new System.Drawing.Point(119, 67);
             this.panel_body.Name = "panel_body";
-            this.panel_body.Size = new System.Drawing.Size(815, 399);
+            this.panel_body.Size = new System.Drawing.Size(815, 438);
             this.panel_body.TabIndex = 32;
             // 
             // User
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(934, 466);
+            this.ClientSize = new System.Drawing.Size(934, 505);
             this.Controls.Add(this.panel_body);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
